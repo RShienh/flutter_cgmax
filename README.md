@@ -1,4 +1,4 @@
-# flutter_cgmax
+# Flutter Project
 
 A new Flutter project.
 
